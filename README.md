@@ -44,4 +44,5 @@ Built an interactive Excel dashboard using 5,000 retail records (Jan 2025–Sep 
 ## Author
 
 Nishat Ahmed
+
 Aspiring Data Analyst | Excel | SQL | Python | Power BI
